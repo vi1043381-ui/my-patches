@@ -1,2 +1,2 @@
 # my-patches
-APK üçün
+APK
